@@ -238,6 +238,7 @@ TARGET_LANGUAGE_NAMES = [
     "French",
     "German",
     "Spanish",
+    "Egyptian Arabic"
 ]
 
 UPDATED_LANGUAGE_LIST = {
